@@ -8,13 +8,6 @@ export interface GuestRsvp {
   message: string;
 }
 
-export enum ToneType {
-  HEARTFELT = 'Heartfelt',
-  FUNNY = 'Funny',
-  FORMAL = 'Formal',
-  SHORT = 'Short & Sweet',
-}
-
 export interface GalleryImage {
   id: number;
   url: string;
