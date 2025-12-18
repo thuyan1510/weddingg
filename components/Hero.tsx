@@ -81,7 +81,7 @@ const Hero: React.FC = () => {
                   className="w-full h-full object-cover" 
                 />
                 <div className="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/40 to-transparent p-2">
-                   <p className="text-white font-script text-xl text-center">Cẩm & Nghĩa</p>
+                   <p className="text-white font-script text-xl text-center">Tú Nam & Thúy An</p>
                 </div>
              </div>
           </div>
